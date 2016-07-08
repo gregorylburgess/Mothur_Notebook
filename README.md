@@ -1,5 +1,5 @@
 # Mothur_Notebook
-A Jupyter Notebook following the Mothur MiSeq SOP Tutorial [ARMS-internship]
+A Jupyter Notebook following the Mothur MiSeq SOP Tutorial from http://www.mothur.org/wiki/MiSeq_SOP [ARMS-internship]
 
 Requires the Jupyter Ipython notebook to be installed.
 
