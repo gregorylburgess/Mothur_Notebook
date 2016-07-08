@@ -5,4 +5,5 @@ Requires the Jupyter Ipython notebook to be installed.
 
 To run:
 >jupyter notebook
+
 In the Jupyter dashboard, navigate to and open the mother_notebook.ipynb file.
